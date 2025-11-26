@@ -1,6 +1,6 @@
 # Giới thiệu
 
-Ứng dụng Windows Forms viết bằng C# minh họa quy trình tạo và kiểm tra chữ ký số dựa trên RSA. Dự án phục vụ bài tập lớn môn An toàn Bảo mật Thông tin, giúp người học quan sát trực quan việc sinh khóa, ký số và xác thực tính toàn vẹn dữ liệu.
+Ứng dụng Windows Forms viết bằng C# minh họa quy trình tạo và kiểm tra chữ ký số dựa trên RSA. Dự án phục vụ bài tập lớn môn An Ninh Mạng, giúp người học quan sát trực quan việc sinh khóa, ký số và xác thực tính toàn vẹn dữ liệu.
 
 ---
 
